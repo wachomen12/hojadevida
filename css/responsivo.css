@@ -1,0 +1,15 @@
+@media all and(max-width:800px) {
+    .mid{
+        flex-direction: column;
+    }
+    .barra{
+        flex-direction: column;
+        height: 0;
+    }
+}
+
+@media all and(max-width:600px) {
+    .section-1{
+        flex-direction: column;
+    }
+}
